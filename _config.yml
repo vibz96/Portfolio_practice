@@ -1,6 +1,16 @@
-title: Vaibhav Jaisingpure
-logo: https://cdn1.iconfinder.com/data/icons/seo-and-web-development-color/64/seo-and-web-development-05-512.png
-description: Page shows the project done in python languages.
-show_downloads: false
-google_analytics:
+title: <p align="center"> Sajan Kedia </p>
+logo: https://th.bing.com/th/id/OIP.64rMqAZTKuVb2NWkyqMehgAAAA?pid=ImgDet&w=238&h=250&rs=1
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-jaisingpure-0107b6183/">LinkedIn</a> |
+  <a href="https://github.com/vibz96">GitHub</a>
+  
+  <br>   
+  This page shows the project i've done while learning python language.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
